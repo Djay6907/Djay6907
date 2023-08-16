@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Djay6907
 - 👀 I’m interested in Video Games, Cybersecurity, ...
-- 🌱 I’m currently learning C++ in university
+- 🌱 I’m currently discovering Cybersecurity by myself and university
 - 📫 How to reach me djayson.michalon6907@gmail.com
 
 <!---
